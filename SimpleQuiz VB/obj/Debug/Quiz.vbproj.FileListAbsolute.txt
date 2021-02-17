@@ -1,0 +1,80 @@
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\Quiz.dll.config
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\Quiz.dll
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\Quiz.pdb
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\Quiz.xml
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\roslyn\csc.exe
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\roslyn\csc.exe.config
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\roslyn\csc.rsp
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\roslyn\csi.exe
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\roslyn\csi.rsp
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\roslyn\System.AppContext.dll
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\roslyn\vbc.exe
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\roslyn\vbc.exe.config
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\roslyn\vbc.rsp
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mylan\Desktop\Quiz\Quiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mylan\Desktop\Quiz\Quiz\obj\Debug\Quiz.vbprojAssemblyReference.cache
+C:\Users\mylan\Desktop\Quiz\Quiz\obj\Debug\Quiz.Resources.resources
+C:\Users\mylan\Desktop\Quiz\Quiz\obj\Debug\Quiz.vbproj.GenerateResource.cache
+C:\Users\mylan\Desktop\Quiz\Quiz\obj\Debug\Quiz.vbproj.CoreCompileInputs.cache
+C:\Users\mylan\Desktop\Quiz\Quiz\obj\Debug\Quiz.vbproj.CopyComplete
+C:\Users\mylan\Desktop\Quiz\Quiz\obj\Debug\Quiz.dll
+C:\Users\mylan\Desktop\Quiz\Quiz\obj\Debug\Quiz.xml
+C:\Users\mylan\Desktop\Quiz\Quiz\obj\Debug\Quiz.pdb
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\Quiz.dll.config
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\Quiz.dll
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\Quiz.pdb
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\Quiz.xml
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\roslyn\csc.exe
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\roslyn\csc.exe.config
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\roslyn\csc.rsp
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\roslyn\csi.exe
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\roslyn\csi.rsp
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\roslyn\System.AppContext.dll
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\roslyn\vbc.exe
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\roslyn\vbc.exe.config
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\roslyn\vbc.rsp
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\obj\Debug\Quiz.vbprojAssemblyReference.cache
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\obj\Debug\Quiz.Resources.resources
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\obj\Debug\Quiz.vbproj.GenerateResource.cache
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\obj\Debug\Quiz.vbproj.CoreCompileInputs.cache
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\obj\Debug\Quiz.vbproj.CopyComplete
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\obj\Debug\Quiz.dll
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\obj\Debug\Quiz.xml
+C:\Users\mylan\OneDrive - lindenwood.edu\LU\Fall 20\GUI Application Design\Quiz_Milan_VB\Quiz\obj\Debug\Quiz.pdb
